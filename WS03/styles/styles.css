@@ -1,0 +1,30 @@
+body {
+
+    background-color: black;
+    color:white    
+}
+
+    h1{
+    font-size: 20px;
+    }
+
+         ol{list-style-type: upper-alpha;}
+
+        ul{list-style-type: square;}
+
+
+    p{
+    font-size: 12px;
+    color: lightgray;
+    }
+
+    div { 
+        border-style: dotted;
+        border-width: 2px;
+        height: 100px;
+        width: 100px;
+        
+    }
+  
+        
+

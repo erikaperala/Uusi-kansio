@@ -1,0 +1,20 @@
+body {
+    color: rgb(236, 114, 200);
+    background-color:rgb(92, 201, 92);
+    background-image:url(../kuvat/yle2.avif);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font: size 20px;%;
+    
+}
+
+.btn {
+    background-color: rgb(129, 240, 248);
+}
+
+#nappi {
+    font-size:xx-large;
+    background-color: rgb(212, 224, 104);
+}
