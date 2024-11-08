@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(152, 209, 246);
+    text-align: center;
+    padding: 40px;
+    font-size: larger;
+    width: 100%;
+
+}
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
