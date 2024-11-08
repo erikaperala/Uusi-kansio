@@ -1,0 +1,33 @@
+body {
+
+    background-color: rgb(164, 205, 165);
+    color:rgb(0, 0, 0)    
+}
+
+    h1{
+
+        width: 450px;
+        height: 40px;
+        border-width: 5px;
+        border-style: dotted;
+        border-color: rgb(240, 184, 245);
+        font-size: 28px
+        
+    }
+
+
+    p{
+        
+        border: 2px solid rgb(240, 208, 51);
+        border-radius: 10px;
+        padding: 10px;
+        background-color: rgb(118, 118, 244);
+    
+    }
+
+    figure{
+
+        font-size: larger;
+        margin-top: 30px;
+        margin-left: -1px;
+    }
