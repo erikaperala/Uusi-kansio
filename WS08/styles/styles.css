@@ -15,7 +15,7 @@ header{
     background-color: rgb(215, 170, 255);
     text-align: center;
     font-size: larger;
-    font-family: fantasy;
+    font-family: copperplate, fantasy;
     width: 100%;
     padding: 20px 0;
 
@@ -43,6 +43,18 @@ header{
 
 main {
     flex-grow: 1;
+}
+
+
+.small-img{
+    width: 200px;
+    height: auto;
+
+}
+
+.etusivu-img{
+    width: 200px;
+    height: auto;
 }
 
 footer {
